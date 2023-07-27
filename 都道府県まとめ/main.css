@@ -1,0 +1,24 @@
+body {
+    font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", sans-serif;
+    font-size:28px
+}
+
+.header {
+    height:100px;
+    width: 964px;
+    background-color: rgb(83, 83, 255);
+    color: #fff;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 60px;
+    letter-spacing: 20px;
+    
+}
+
+.PrefectureList a {
+    padding-right: 45px;
+}
+
+a[href=""] {
+    color: red;
+}
