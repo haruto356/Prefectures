@@ -18,6 +18,12 @@ body {
     padding-right: 45px;
 }
 
+a {
+    color: skyblue;
+    text-decoration-line: none;
+}
+
+
 a[href=""] {
     color: red;
     text-decoration-line: none;
