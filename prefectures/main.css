@@ -28,3 +28,7 @@ a[href=""] {
     color: red;
     text-decoration-line: none;
 }
+
+td {
+    text-align: center;
+}
